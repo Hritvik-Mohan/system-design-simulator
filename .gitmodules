@@ -1,0 +1,3 @@
+[submodule "hld-simulator-docs"]
+	path = hld-simulator-docs
+	url = https://github.com/Hritvik-Mohan/hld-simulator-docs.git
